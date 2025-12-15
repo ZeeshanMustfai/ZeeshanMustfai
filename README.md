@@ -20,15 +20,17 @@ const importantLinks = {
 
 ## Hi 👋,
 
-Hi, my name is Zeeshan Mustfai!
+Hi, my name is Zeeshan Mustfai.
 
-More than 5 years in Front-End development and over 4 years in projects with React and NextJs. An expert in functional and modern interfaces.
+I have more than 5 years of experience in web development, with over 5 years working on real-world projects using React and Next.js. I now work as a full-stack developer, building complete products from frontend to backend.
 
-I am a developer passionate about design, but also a designer passionate about development. This allows me to understand user needs and create solutions that are attractive, but primarily functional. My focus is on experience and usability.
+On the frontend, I focus on clean, modern interfaces with strong attention to usability and performance. On the backend, I work with APIs, databases, authentication, and server-side logic to deliver reliable and scalable systems.
 
-I have worked on projects for large companies and multinationals in the Retail, Industry, Commerce, Services, and Banking sectors.
+I’m passionate about both design and development. This helps me understand user needs clearly and turn them into solutions that look good and work well. My main focus is user experience, usability, and maintainable code.
 
-- 🔭 I'm currently working at [Eye4Tech](https://www.eye4tech.com/) on React/NextJs, Typescript, Jest, TailwindCSS and Styled Components
+I have worked on projects for large companies and multinational clients across Retail, Industry, Commerce, Services, and Banking sectors.
+
+- 🔭 I'm currently working at [Eye4Tech](https://www.eye4tech.com/) on React/NextJs, Nodejs, Graphql, Typescript, Jest, TailwindCSS and Styled Components
 - 🌱 I’m currently learning React Native
 
 <br/>
