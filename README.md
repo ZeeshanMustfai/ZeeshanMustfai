@@ -15,7 +15,7 @@ I’m passionate about both design and development. This helps me understand use
 
 I have worked on projects for large companies and multinational clients across Retail, Industry, Commerce, Services, and Banking sectors.
 
-- 🔭 I'm currently working at [Eye4Tech](https://www.eye4tech.com/) on React/NextJs, React Native, Nodejs, Graphql, Typescript, Jest, TailwindCSS and Styled Components
+- 🔭 I'm currently working on React/NextJs, React Native, Nodejs, Graphql, Typescript, Jest, TailwindCSS and Styled Components
 
 
 <br/>
