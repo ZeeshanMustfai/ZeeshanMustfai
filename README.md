@@ -2,21 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andpeicunha)](https://www.linkedin.com/in/zeeshan-mustfai-2bb4aaa9)
 &nbsp;
-[![Portfólio - Site](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://zeeshanmustfai.netlify.app/)
-
-<!--
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://zeeshanmustfai.netlify.app)
-&nbsp;
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
--->
-
-```js
-const importantLinks = {
-   📒 Dev.to: 'https://dev.to/zeeshanmustfai',
-   👨🏻‍💻 Portfolio: 'https://zeeshanmustfai.netlify.app',
-   👋 Email: 'zeeshanmustfai22@gmail.com',
-}
-```
 
 ## Hi 👋,
 
