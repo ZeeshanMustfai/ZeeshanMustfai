@@ -30,8 +30,8 @@ I’m passionate about both design and development. This helps me understand use
 
 I have worked on projects for large companies and multinational clients across Retail, Industry, Commerce, Services, and Banking sectors.
 
-- 🔭 I'm currently working at [Eye4Tech](https://www.eye4tech.com/) on React/NextJs, Nodejs, Graphql, Typescript, Jest, TailwindCSS and Styled Components
-- 🌱 I’m currently learning React Native
+- 🔭 I'm currently working at [Eye4Tech](https://www.eye4tech.com/) on React/NextJs, React Native, Nodejs, Graphql, Typescript, Jest, TailwindCSS and Styled Components
+
 
 <br/>
 <h3 align="left">
@@ -109,12 +109,10 @@ I have worked on projects for large companies and multinational clients across R
 <span/>
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 
-## 📚 Studying: 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/-Express-18BCEE?style=for-the-badge&logoColor=fff&logo=express)&nbsp;
-<br />
 
 ## 📚 Projects: 
 **Blog [Server]** _[development]_ <br/>
